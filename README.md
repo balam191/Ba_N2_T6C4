@@ -1,6 +1,6 @@
 # Hi there! Bá Lâm is here! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
-![image](https://github.com/user-attachments/assets/786020e1-66ba-4a2c-96d0-2ba0b83e523e)
+<img src="https://github.com/user-attachments/assets/786020e1-66ba-4a2c-96d0-2ba0b83e523e"/>
 
 </p>
 
