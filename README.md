@@ -26,7 +26,7 @@
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"width="45" height="55"/>
       <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"width="45" height="55"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"width="45" height="55"/>     
 </p>
