@@ -1,7 +1,7 @@
 # Hi there! Bá Lâm is here! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
 <a href="![image](https://github.com/user-attachments/assets/c8df4972-522b-42d6-8724-541163ba4f57)
-" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
+" alt="apoorv__tyagi" height="30" width="30" /></a>;
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
