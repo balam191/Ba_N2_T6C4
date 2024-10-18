@@ -73,8 +73,8 @@ Tôi là một lập trình viên web chuyên về phát triển frontend, với
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
   #### Deployment
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
@@ -99,8 +99,8 @@ Tôi là một lập trình viên web chuyên về phát triển frontend, với
   - **Impact:** Maximized productivity by automating the notification process, eliminating manual monitoring and alerts, resulting in a **20%** reduction in Placement Coordinator’s workload.
 
   #### <a href="https://github.com/ParthJohri/Lumos-Bot">Lumos Bot</a>
-  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></span>
-- Developed a Whatsapp bot with features like interactive Q&A, company suggestions, job listings, real-time news, contest/hackathon updates, downloading YouTube/Facebook video, and providing 18 additional functionalities.
+  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></span>  
+  - Developed a Whatsapp bot with features like interactive Q&A, company suggestions, job listings, real-time news, contest/hackathon updates, downloading YouTube/Facebook video, and providing 18 additional functionalities.
   - Boosted the daily user experience of **200** to **300** individuals with Lumos Whatsapp Bot.
   - **Impact:** Transformed user experience by incorporating various features, resulting in a remarkable **40%** increase in user engagement and a **25%** growth in active participation.
 
@@ -130,3 +130,102 @@ Tôi là một lập trình viên web chuyên về phát triển frontend, với
 
 
 <details>
+  <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/stats.gif"  width="32"/> Stats</h2></summary>
+
+  ### Leetcode
+  <div align="center">
+  <a href="https://leetcode.com/binarysolver">
+  <img height="316" src="https://leetcard.jacoblin.cool/binarysolver?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/binarysolver/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Binary Solver Leetcode Stats"/>
+  </a>
+ </div>
+
+
+  ### Codeforces
+  <div align="center">
+    <a href="https://codeforces.com/profile/binarysolver">
+      <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=binarysolver&theme=github_dark&force_username=true&border_color=404040" alt="Binary Solver Codeforces Stats"/>
+    </a>
+  </div>
+  
+  ### GitHub
+  <div align="center">
+
+   ![](https://github-readme-stats.vercel.app/api?username=ParthJohri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=ParthJohri&theme=tokyonight&hide_border=false)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthJohri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+   ![](https://github-readme-activity-graph.vercel.app/graph?username=ParthJohri&theme=tokyo-night)
+
+  </div>
+</details>
+
+<details>
+  <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
+  <a href="https://github.com/ParthJohri">
+    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Github.gif" width="70"/>
+  </a>
+  <a href="https://linkedin.com/in/parthjohri07">
+    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Linkedin.gif" width="70"/>
+  </a>
+  <a href="https://www.quora.com/profile/Parth-Johri-6">
+    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Quora.gif" width="70"/>
+  </a>
+</div>
+
+  
+</details>
+
+## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
+
+<p> 
+ <i>You can reach out to me via</i> 
+&nbsp;<a href="mailto:contact.parthjohri@gmail.com">
+     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Gmail.gif"  width="100"/>
+ </a>
+</p>
+
+### ✅ Merged PRs
+<!--Start Count Merged PRs-->
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-30-1877F2?style=for-the-badge"></span>
+<!--Finish Count Merged PRs-->
+
+<!--Start Merged PRs-->
+1. 🥳 Merged PR [379](https://github.com/pymc-labs/CausalPy/pull/379) - [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
+2. 🎉 Merged PR [876](https://github.com/glasskube/glasskube/pull/876) - [glasskube/glasskube](https://github.com/glasskube/glasskube)
+3. 🎊 Merged PR [50](https://github.com/pinacai/PINAC_Workspace/pull/50) - [pinacai/PINAC_Workspace](https://github.com/pinacai/PINAC_Workspace)
+4. 🥂 Merged PR [2](https://github.com/ManasviGaur/Vegetable-freshness-detection/pull/2) - [ManasviGaur/Vegetable-freshness-detection](https://github.com/ManasviGaur/Vegetable-freshness-detection)
+5. 🙌🏼 Merged PR [1](https://github.com/parth782/Movie-Recommendation/pull/1) - [parth782/Movie-Recommendation](https://github.com/parth782/Movie-Recommendation)
+<!--Finish Merged PRs-->
+
+### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
+
+<!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/ParthJohri/ParthJohri/pull/1) in [ParthJohri/ParthJohri](https://github.com/ParthJohri/ParthJohri)
+2. 🗣 Commented on [#1](https://github.com/ParthJohri/ParthJohri/pull/1#issuecomment-2267439196) in [ParthJohri/ParthJohri](https://github.com/ParthJohri/ParthJohri)
+3. 🗣 Commented on [#128](https://github.com/newwwie/newwwie.com/pull/128#issuecomment-2258763293) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
+4. 💪 Opened PR [#128](https://github.com/newwwie/newwwie.com/pull/128) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
+5. 🗣 Commented on [#126](https://github.com/newwwie/newwwie.com/issues/126#issuecomment-2242632304) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
+<!--END_SECTION:activity-->
+
+
+
+## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke 
+
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+   
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+  
+  </div>
+</details>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
